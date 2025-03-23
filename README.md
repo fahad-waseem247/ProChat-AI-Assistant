@@ -1,9 +1,9 @@
 # ProChat-AI-Assistant
-Description: "ProChat is a modern AI-powered chatbot built with HTML, CSS, and JavaScript, integrated with the Google Gemini API for intelligent responses.
+ProChat is a modern AI-powered chatbot built with HTML, CSS, and JavaScript, integrated with the Google Gemini API for intelligent responses.
 
 # ProChat - AI Assistant
 
-live URL: [chatbot live](https://fahad-waseem247.github.io/ProChat-AI-Assistant/).
+live URL:  [chatbot live](https://fahad-waseem247.github.io/ProChat-AI-Assistant/).
 
 ## Overview
 ProChat is a sleek, responsive AI-powered chatbot designed to assist users with real-time conversations. Built with HTML, CSS, and JavaScript, it leverages the Google Gemini API to deliver intelligent and concise responses. The interface is user-friendly, featuring a modern design with auto-scrolling chat, dynamic textarea resizing, and mobile responsiveness.
@@ -33,8 +33,8 @@ ProChat is a sleek, responsive AI-powered chatbot designed to assist users with 
 2. **Replace API Key**:
 - Open script.js.
 - Replace Replace with your Google Gemini API Key with your actual Google Gemini API key.
-3. Open the Project:
-Open index.html in a web browser to run the chatbot locally.
+3. **Open the Project**:
+- Open index.html in a web browser to run the chatbot locally.
 ## Usage
 - Type a message in the input field and press "Send" or hit "Enter" to get a response from the AI.
 - The chatbot will display "Thinking..." while fetching a response and then show the reply.
