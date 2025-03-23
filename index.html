@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProChat - AI Assistant</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="chatbot-container">
+        <div class="chatbot-header">
+            <div class="header-left">
+                <span class="material-icons">smart_toy</span>
+                <h2>ProChat</h2>
+            </div>
+            <span class="close-btn material-icons">close</span>
+        </div>
+        <div class="chatbox" id="chatbox">
+            <div class="chat incoming">
+                <span class="material-icons">smart_toy</span>
+                <p>Hello! I'm ProChat, your AI assistant. How can I help you today?</p>
+            </div>
+        </div>
+        <div class="chat-input">
+            <textarea id="userInput" placeholder="Type your message..." rows="1" required></textarea>
+            <button id="sendBtn" class="material-icons">send</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
